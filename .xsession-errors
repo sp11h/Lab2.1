@@ -1,0 +1,305 @@
+Xsession: X session started for  at Fri Jan 17 15:29:53 UTC 2020
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:spencerplotnick being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+/home/spencerplotnick/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/spencerplotnick/Templates was removed, reassigning TEMPLATES to homedir
+/home/spencerplotnick/Public was removed, reassigning PUBLICSHARE to homedir
+/home/spencerplotnick/Documents was removed, reassigning DOCUMENTS to homedir
+/home/spencerplotnick/Music was removed, reassigning MUSIC to homedir
+/home/spencerplotnick/Pictures was removed, reassigning PICTURES to homedir
+/home/spencerplotnick/Videos was removed, reassigning VIDEOS to homedir
+/etc/xrdp/startwm.sh: 3: [: x: unexpected operator
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[5275]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[5275]: directory '/home/spencerplotnick/.gnupg' created
+gpg-agent[5275]: directory '/home/spencerplotnick/.gnupg/private-keys-v1.d' created
+gpg-agent[5276]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:5255): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:5255): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/spencerplotnick/.cache/sessions/xfce4-session-spencerplotnick:10, Does it exist? Permissions issue?
+
+(xfsettingsd:5319): xfsettingsd-CRITICAL **: RANDR extension is too old, version 1.1. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":10.0".
+
+(xfsettingsd:5319): xfsettingsd-CRITICAL **: XI is not present.
+
+(xfsettingsd:5319): xfsettingsd-CRITICAL **: Failed to initialize the Xkb extension.
+
+(xfsettingsd:5319): xfsettingsd-CRITICAL **: Failed to initialize the Accessibility extension.
+
+** (xfce4-volumed:5323): WARNING **: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Alt><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Alt><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Alt><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:5323): WARNING **: Failed to map virtual modifiers
+Failure: Module initialization failed
+
+(xfwm4:5278): xfwm4-WARNING **: The display does not support the XRender extension.
+
+(xfwm4:5278): xfwm4-WARNING **: The display does not support the XComposite extension.
+
+(xfwm4:5278): xfwm4-WARNING **: The display does not support the XDamage extension.
+
+(xfwm4:5278): xfwm4-WARNING **: The display does not support the XFixes extension.
+
+(xfwm4:5278): xfwm4-WARNING **: Compositing manager disabled.
+
+(xfwm4:5278): xfwm4-WARNING **: Cannot find visual format on screen 0
+xfce4-panel-Message: Plugin "(null)-13" was not found and has been removed from the configuration
+xfce4-panel-Message: Plugin "(null)-14" was not found and has been removed from the configuration
+Xsession: X session started for  at Fri Jan 17 15:39:28 UTC 2020
+localuser:spencerplotnick being added to access control list
+/etc/xrdp/startwm.sh: 3: [: x: unexpected operator
+/usr/bin/x-session-manager: X server already running on display :11.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[6333]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:6326): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:6326): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/spencerplotnick/.cache/sessions/xfce4-session-spencerplotnick:11, Does it exist? Permissions issue?
+
+** (xfce4-volumed:6354): WARNING **: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift><Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Alt><Super>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift><Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Alt><Super>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Alt><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Alt><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Shift><Alt><Super>XF86AudioMute' failed!
+
+** (xfce4-volumed:6354): WARNING **: Binding '<Ctrl><Shift><Alt><Super>XF86AudioMute' failed!
+
+(xfwm4:6336): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -707730116
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872341184
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872341184
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 1443097344
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872278976
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872278952
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731711040
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872278976
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731714928
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731714936
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -724246364
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872341184
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 1443097344
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731714928
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731714816
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731714544
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 1401565685
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 16384
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 1443097344
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872341184
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 1443097344
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -872341184
+
+(xfdesktop:6345): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkproperty-x11.c:325 invalid X atom: -731714816
